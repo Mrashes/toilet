@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+
+import PlacesAutocomplete, { geocodeByAddress, getLatLng } from 'react-places-autocomplete'
+// https://github.com/kenny-hibino/react-places-autocomplete
+
 import './Post.css';
 
 // import API from '../Utils/API'
@@ -8,31 +12,39 @@ class PostToilet extends Component {
     state = {
         toilet: {
             name: "",
-        }
+        },
+        address: ''
     }
 
+    onChange = (address) => this.setState({ address })
+
     handleChange = (e) => {
-        console.log(e.target.name, e.target.value)
-        this.setState({
-          [e.target.name]: e.target.value
+        this.setState({ toilet: {[e.target.name]: e.target.value}
         });
-        console.log(this.state.toilet.name)
       }
     
-    // handleSubmit = (e) => {
-    //     e.preventDefault();
-    //     this.setState({
-    //       oldtag: this.state.tag,
-    //         tag: '',
-    //     });
-    
-    // }
+    handleSubmit = (e) => {
+        e.preventDefault();
+        // this.setState({
+        //   oldtag: this.state.tag,
+        //     tag: '',
+        // });
+        geocodeByAddress(this.state.address)
+        .then(results => getLatLng(results[0]))
+        .then(({ lat, lng }) => console.log('Successfully got latitude and longitude', { lat, lng }))
+    }
 
     render() {
+        const inputProps = {
+            value: this.state.address,
+            onChange: this.onChange,
+        }   
+
         return (
         <form>
-            <input type="text" name="toilet.name" className="ghost-input" placeholder="Name"  onChange={this.handleChange} value={this.state.toilet.name} required></input>
-            <input type="submit" className="ghost-button" value="Get Images"></input>
+            <input type="text" name="name" placeholder="Name"  onChange={this.handleChange} value={this.state.toilet.name} required></input>
+            <PlacesAutocomplete inputProps={inputProps} required/>
+            <input type="submit" className="ghost-button" value="add to database" onClick={this.handleSubmit} ></input>
         </form>
         )
     }

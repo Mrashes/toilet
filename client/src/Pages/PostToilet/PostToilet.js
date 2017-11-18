@@ -38,10 +38,10 @@ class PostToilet extends Component {
                 geocoords : [lat, lng]
             })
             const object = this.state
+
+            //Post this all state then clear
             console.log(object);
         })
-        // // console.log('Successfully got latitude and longitude', { lat, lng }, )
-        // )
     }
 
     render() {
@@ -52,20 +52,22 @@ class PostToilet extends Component {
 
         return (
         <form>
-            {/* <input type="text" name="name" placeholder="Name"  onChange={this.handleChange} value={this.state.toilet.name} required></input> */}
             <PlacesAutocomplete inputProps={inputProps} required/>
-            <Checkbox 
-                type={this.state.gendered}
-                name='gendered'
-                label='Gendered (Male/Female)'
-                onChange={this.handleCheckbox}
-            />
-            <Checkbox
-                type={this.state.unisex}
-                name='unisex'
-                label='Unisex'
-                onChange={this.handleCheckbox}
-            />
+            <div className="postCheckboxFlex">
+                <Checkbox 
+                    type={this.state.gendered}
+                    name='gendered'
+                    label='Gendered (Male/Female)'
+                    onChange={this.handleCheckbox}
+                />
+                <Checkbox
+                    type={this.state.unisex}
+                    name='unisex'
+                    label='Unisex'
+                    onChange={this.handleCheckbox}
+                />
+            </div>
+
             <input type="submit" className="ghost-button" value="add to database" onClick={this.handleSubmit} ></input>
         </form>
         )

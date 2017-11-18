@@ -1,0 +1,138 @@
+{
+  "Locations": [
+    {
+      "name": "900 North Michigan Shops",
+      "Point": {
+        "coordinates": "-87.624523,41.899502"
+      }
+    },
+    {
+      "name": "John Hancock Center",
+      "description": "Enter from North Michigan Avenue at the lower level. Go down the hall past The Cheesecake Factory and turn right at the shoeshine shop. The restrooms will be down the hall on the left.",
+      "Point": {
+        "coordinates": "-87.622917,41.89877"
+      }
+    },
+    {
+      "name": "Water Tower Place",
+      "Point": {
+        "coordinates": "-87.622893,41.89793"
+      }
+    },
+    {
+      "name": "The Shops at North Bridge",
+      "description": "Enter from North Michigan Avenue. Take a left past the stores to the escalator and take the escalator to the second floor. The restrooms are located to the left. There is also an elevator located just past the escalators, to the left.",
+      
+      "Point": {
+        "coordinates": "-87.624808,41.891432"
+      }
+    },
+    {
+      "name": "Navy Pier",
+      "Point": {
+        "coordinates": "-87.609398,41.891892"
+      }
+    },
+    {
+      "name": "Chicago Riverwalk",
+      "description": "<img src=\"https://lh6.googleusercontent.com/vhesw24oPMuz3lP6pmEprH254G1vyXiOsJdp6AmaH5ziQNw6KM5p87mghUD9yeJAlUwcDVG1bZo73ZQFSze2neddOiJBhNqmmhrxaz9FOBR_eVBbpu6Cob5b3VecB2D6\" height=\"200\" width=\"auto\" /><br><br>These restrooms are located on the Chicago Riverwalk between North State Street and North Dearborn Street.",
+      "ExtendedData": {
+        "Data": {
+          "-name": "gx_media_links",
+          "value": "https://lh6.googleusercontent.com/vhesw24oPMuz3lP6pmEprH254G1vyXiOsJdp6AmaH5ziQNw6KM5p87mghUD9yeJAlUwcDVG1bZo73ZQFSze2neddOiJBhNqmmhrxaz9FOBR_eVBbpu6Cob5b3VecB2D6"
+        }
+      },
+      "Point": {
+        "coordinates": "-87.6291606,41.8870232"
+      }
+    },
+    {
+      "name": "Chicago Riverwalk",
+      "description": "<img src=\"https://lh3.googleusercontent.com/proxy/_mZsQRpW6TDlOaihDLunLfjLPUmCxZHUO3nFyRtaEwG0IhhsJZG0IBEC8JwWIRadj_eulyes3CF4hXNYlfv41hhboqX3dIAeJsagmt5WxxlWJlxaW10w_Ux7I6zF0BW0kvXsSkFXUPvjhs_tEGBEivExme_UEhmo3AlC8EU1I7GeLVM71D4MjbIq3DClJ0Bv6cDFgRqvDKei_o_1GA\" height=\"200\" width=\"auto\" /><br><br>These restrooms are located on the Chicago Riverwalk between North Dearborn Street and North Clark Street.<br><br><img src=\"https://lh3.googleusercontent.com/proxy/xJ9JmZzW5kWvLOdP-4KNwLa5aoxE3pW0PlHb_emPLO-miKns3gAPEsVknGJJbuDHx1TbVWT2OedZdvhlsNQ5GE6XCcZvbeozavDoGKgsWHq1ld7-Ax7d9RdqXSm5QI1dsp_hry-PCEBUBhHGDK_7Jat3UdOBQSMq8T17_dFJfDcur55Rqi6DwlCi4mYrJT2JIyzC_4Qfv-0V__XfDA\" height=\"200\" width=\"auto\" />",
+      "ExtendedData": {
+        "Data": {
+          "-name": "gx_media_links",
+          "value": "https://lh3.googleusercontent.com/proxy/_mZsQRpW6TDlOaihDLunLfjLPUmCxZHUO3nFyRtaEwG0IhhsJZG0IBEC8JwWIRadj_eulyes3CF4hXNYlfv41hhboqX3dIAeJsagmt5WxxlWJlxaW10w_Ux7I6zF0BW0kvXsSkFXUPvjhs_tEGBEivExme_UEhmo3AlC8EU1I7GeLVM71D4MjbIq3DClJ0Bv6cDFgRqvDKei_o_1GA https://lh3.googleusercontent.com/proxy/xJ9JmZzW5kWvLOdP-4KNwLa5aoxE3pW0PlHb_emPLO-miKns3gAPEsVknGJJbuDHx1TbVWT2OedZdvhlsNQ5GE6XCcZvbeozavDoGKgsWHq1ld7-Ax7d9RdqXSm5QI1dsp_hry-PCEBUBhHGDK_7Jat3UdOBQSMq8T17_dFJfDcur55Rqi6DwlCi4mYrJT2JIyzC_4Qfv-0V__XfDA"
+        }
+      },
+      "Point": {
+        "coordinates": "-87.6300967,41.8870213"
+      }
+    },
+    {
+      "name": "Chicago Riverwalk",
+      "description": "<img src=\"https://lh3.googleusercontent.com/nH8kYe5XMLZeFaagvmtXiLQ-BtLpW35GFDhh9v44x8FnBXV-DK-aQJvpfu7Yd3-SlF35guS-uNQPOdHke8zoUYd2aAvT5_KBUUJZL1nOkdj2XnyiLChVuiEClYwsV8m9\" height=\"200\" width=\"auto\" /><br><br>These restrooms are located on the Chicago Riverwalk between North LaSalle Street and North Wells Street.",
+      "ExtendedData": {
+        "Data": {
+          "-name": "gx_media_links",
+          "value": "https://lh3.googleusercontent.com/nH8kYe5XMLZeFaagvmtXiLQ-BtLpW35GFDhh9v44x8FnBXV-DK-aQJvpfu7Yd3-SlF35guS-uNQPOdHke8zoUYd2aAvT5_KBUUJZL1nOkdj2XnyiLChVuiEClYwsV8m9"
+        }
+      },
+      "Point": {
+        "coordinates": "-87.6336989,41.8870113"
+      }
+    },
+    {
+      "name": "James R. Thompson Center",
+      "description": "Enter at the West Randolph Street and North Clark Street corner doors. Take the escalator down to the food court and take a right out of the food court area to the restrooms.",
+      "Point": {
+        "coordinates": "-87.63185,41.88529"    
+      }
+    },
+    {
+      "name": "Block 37",
+      "description": "Enter at the North State Street entrance. Walk down the hall to the center area of the mall. Take the escalator down to the lower level and turn left down the hall at the bottom of the escalator. The restrooms will be on the left. These are the best restrooms to use in this mall because there are more stalls. The restrooms on the upper floors of the mall are smaller restrooms with only a few stalls.",
+      "Point": {
+        "coordinates": "-87.628465,41.8838972"
+      }
+    },
+    {
+      "name": "Chicago Cultural Center",
+      "description": "Enter at either the East Washington Street or East Randolph Street entrance. The restrooms are on the north (East Randolph Street) end of the building.",
+      
+      "Point": {
+        "coordinates": "-87.624952,41.883754"
+      }
+    },
+    {
+      "name": "Jay Pritzker Pavilion at Millennium Park",
+      "description": "This restroom location is open seasonally. The restrooms are located to the east and west of the stage.",
+      "Point": {
+        "coordinates": "-87.6218446,41.8831118"
+      }
+    },
+    {
+      "name": "Harold Washington Library Center",
+      "description": "Restrooms are located on several floors of the library.",
+      "Point": {
+        "coordinates": "-87.628228,41.876297"
+      }
+    },
+    {
+      "name": "Grant Park Near Buckingham Fountain",
+      "description": "<img src=\"https://lh3.googleusercontent.com/proxy/x1hk2XzFbKVyf5OijCRbR3xBk9WaWr9LPuCmrwlhOQQnPvCZx6OTlDsc_IFhr0w-eZKByB96fjugtdC-mSMmOEg9gMhGczn3u9PSl1gL-ZZ-s5EJinuEiMgvYTlvDYwbrJFga53hotO3g1q82rrRuWQG9_Ux8IzMQd8b_f3A4AGTSoQZ6FEOpQBCofT_zrYkUUa4GA\" height=\"200\" width=\"auto\" /><br><br>This restroom is located in Grant Park to the northwest of Buckingham Fountain, 301 South Columbus Drive, Chicago.<br><br>This restroom location is open seasonally. It is currently open for the 2017 season.<br><br>Learn more about Buckingham Fountain at http://www.chicagoparkdistrict.com/parks/clarence-f-buckingham-memorial-fountain/<br><br><img src=\"https://lh5.googleusercontent.com/proxy/fwgN1K8I33LP8irHR8Bc4HvHTwJNYd36yz4M1LYVyY6iqYtcvJtx91yZzUamis7-Xfe01NQebX4dNv9D_vkFUYoh4ue-9ZH5QvyAi2hOV-ANlW1ne5jeP2ftlKczDeiF5Z3XbxE_5iGJDMmACsxFxeljQJFTTLN4xG1mMnLWq3sfVkwVzvfV_RZy3_HGBMRG\" height=\"200\" width=\"auto\" />",
+      "ExtendedData": {
+        "Data": {
+          "-name": "gx_media_links",
+          "value": "https://lh3.googleusercontent.com/proxy/x1hk2XzFbKVyf5OijCRbR3xBk9WaWr9LPuCmrwlhOQQnPvCZx6OTlDsc_IFhr0w-eZKByB96fjugtdC-mSMmOEg9gMhGczn3u9PSl1gL-ZZ-s5EJinuEiMgvYTlvDYwbrJFga53hotO3g1q82rrRuWQG9_Ux8IzMQd8b_f3A4AGTSoQZ6FEOpQBCofT_zrYkUUa4GA https://lh5.googleusercontent.com/proxy/fwgN1K8I33LP8irHR8Bc4HvHTwJNYd36yz4M1LYVyY6iqYtcvJtx91yZzUamis7-Xfe01NQebX4dNv9D_vkFUYoh4ue-9ZH5QvyAi2hOV-ANlW1ne5jeP2ftlKczDeiF5Z3XbxE_5iGJDMmACsxFxeljQJFTTLN4xG1mMnLWq3sfVkwVzvfV_RZy3_HGBMRG"
+        }
+      },
+      "Point": {
+        "coordinates": "-87.6192713,41.8767669"
+      }
+    },
+    {
+      "name": "Grant Park Near Buckingham Fountain",
+      "description": "<img src=\"https://lh6.googleusercontent.com/proxy/EnMGkTIdWwJGwA-Q7_uKu9dNVXazvLgc8JW8L7qBpAzGf1LL2QDE-XbTs4BOdi8giMcKyJgDCkrIPhr9zQS3Ph1nL8v-sADaRVbAJvcCEoQPPLBl6n3kKEHw05_uJ69VkEJhDfI8eXH-MHpmjt1FLrMzaHzGgJTNoG7XeTM4EZaWCP9i5Vr-_4NZxt9HyfTSQWt9OQ\" height=\"200\" width=\"auto\" /><br><br>This restroom is located in Grant Park to the southwest of Buckingham Fountain, 301 South Columbus Drive, Chicago.<br><br>This restroom location is open seasonally. It is currently open for the 2017 season.<br><br>Learn more about Buckingham Fountain at http://www.chicagoparkdistrict.com/parks/clarence-f-buckingham-memorial-fountain/<br><br><img src=\"https://lh5.googleusercontent.com/proxy/7yfJbzucamYWASHAMDGpblGvOvkP4vh8atBlvfglRqkTfnGVUwVCjKENd3XbM0L0vAc9ckrS_Rzwg9-DEAa2CsViHSXPspYkWHQDOaj998-hGpDadsC1ZOKWMsplPRxpvnUeLJtL4udmbKYaTYq8jDapLB05kocafOGJLW_jvHV6MripWzG63gK6I_TQci87\" height=\"200\" width=\"auto\" />",
+      "ExtendedData": {
+        "Data": {
+          "-name": "gx_media_links",
+          "value": "https://lh6.googleusercontent.com/proxy/EnMGkTIdWwJGwA-Q7_uKu9dNVXazvLgc8JW8L7qBpAzGf1LL2QDE-XbTs4BOdi8giMcKyJgDCkrIPhr9zQS3Ph1nL8v-sADaRVbAJvcCEoQPPLBl6n3kKEHw05_uJ69VkEJhDfI8eXH-MHpmjt1FLrMzaHzGgJTNoG7XeTM4EZaWCP9i5Vr-_4NZxt9HyfTSQWt9OQ https://lh5.googleusercontent.com/proxy/7yfJbzucamYWASHAMDGpblGvOvkP4vh8atBlvfglRqkTfnGVUwVCjKENd3XbM0L0vAc9ckrS_Rzwg9-DEAa2CsViHSXPspYkWHQDOaj998-hGpDadsC1ZOKWMsplPRxpvnUeLJtL4udmbKYaTYq8jDapLB05kocafOGJLW_jvHV6MripWzG63gK6I_TQci87"
+        }
+      },
+      "Point": {
+        "coordinates": "-87.6192283,41.8748016"
+      }
+    }
+  ]
+}

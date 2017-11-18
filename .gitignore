@@ -5,7 +5,7 @@
 client/node_modules
 
 # APIKeys
-client/Utils/APIKeys.js
+client/src/Utils/APIKeys.js
 
 # testing
 /coverage
